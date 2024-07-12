@@ -1,0 +1,95 @@
+.image{
+        background-color: white;
+        font-family: arial;
+        width: 400px;
+        padding: 10px;
+        margin: 10px auto;
+        border: 1px solid red;
+        border-radius: 20px;
+        display: inline-block;
+        
+      
+}
+.startech{
+    margin: auto;
+    width: fit-content;
+  
+} 
+.image img{
+    width: 100%;
+}
+.image h1{
+    font-size: 20px;
+    font-weight: 25px;
+}
+
+.image h1:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+.image a{
+    color: orangered;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 700px;
+}
+
+.course{
+    background-color: white;
+    font-family: arial;
+    width: 600px;
+    height: auto;
+    padding: 5px;
+    margin: 30px;
+    border: 2px solid red;
+    border-radius: 40px;
+    display:inline-block;
+
+}
+ .all_course{
+    width: fit-content;
+    margin: auto;
+}
+ .course img{
+    width: 100%;
+    border-radius: 30px 30px 0px 0px;
+ }
+ .course h6{
+    font-size: 30px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    color: orangered;
+ }
+ .course h3{
+    font-size: 50px;
+    color: black;
+    line-height: 30px;
+ }
+ .course ul{
+    font-size: 20px;
+    color: black;
+    font-family: 'Lucida Sans';
+    font-weight: 400;
+
+ }
+ .course h1{
+    font-size: 40px;
+    font-family: 25px;
+    font-family: arial;
+ }
+ .course button{
+    width: auto;
+    margin: 5px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: aliceblue;
+    border: 1px solid orangered;
+    color: blueviolet;
+    border-radius: 20px;
+ }
+ .course button:hover{
+    background-color: orangered;
+    color: white;
+    transition: 1s;
+ }
